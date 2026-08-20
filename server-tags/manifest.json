@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-08-20T17:27:37.697Z",
+  "updatedAt": "2026-08-20T17:28:40.820Z",
   "tagDefs": [
+    {
+      "key": "dl",
+      "label": "دانلود",
+      "icon": "swap",
+      "color": "#00FF80"
+    },
     {
       "key": "ai",
       "label": "هوش مصنوعی",
