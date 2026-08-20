@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-08-20T14:13:44.618Z",
+  "updatedAt": "2026-08-20T14:14:33.291Z",
   "locations": [
+    {
+      "key": "netherlands",
+      "name": "هلند",
+      "tags": [
+        "streaming",
+        "torrent"
+      ],
+      "note": ""
+    },
     {
       "key": "turkey",
       "name": "ترکیه",
