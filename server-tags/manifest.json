@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T17:29:49.307Z",
+  "updatedAt": "2026-08-20T17:31:15.432Z",
   "tagDefs": [
     {
       "key": "stream",
@@ -18,6 +18,12 @@
       "label": "هوش مصنوعی",
       "icon": "sparkles",
       "color": "#8B5CF6"
+    },
+    {
+      "key": "finance",
+      "label": "فایننس",
+      "icon": "money",
+      "color": "#C0C0C0"
     }
   ],
   "locations": [
