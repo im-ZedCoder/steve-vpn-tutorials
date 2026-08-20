@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-08-20T17:28:40.820Z",
+  "updatedAt": "2026-08-20T17:29:49.307Z",
   "tagDefs": [
+    {
+      "key": "stream",
+      "label": "استریم و گیم",
+      "icon": "rocket",
+      "color": "#E34A4F"
+    },
     {
       "key": "dl",
       "label": "دانلود",
