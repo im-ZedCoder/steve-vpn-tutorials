@@ -1,43 +1,20 @@
 {
-  "updatedAt": "2026-08-20T14:18:28.310Z",
+  "updatedAt": "2026-08-20T17:27:37.697Z",
+  "tagDefs": [
+    {
+      "key": "ai",
+      "label": "هوش مصنوعی",
+      "icon": "sparkles",
+      "color": "#8B5CF6"
+    }
+  ],
   "locations": [
-    {
-      "key": "belgium",
-      "name": "بلژیک",
-      "tags": [
-        "streaming",
-        "gaming",
-        "download"
-      ],
-      "note": ""
-    },
-    {
-      "key": "netherlands",
-      "name": "هلند",
-      "tags": [
-        "streaming",
-        "torrent"
-      ],
-      "note": ""
-    },
-    {
-      "key": "turkey",
-      "name": "ترکیه",
-      "tags": [
-        "streaming",
-        "gaming",
-        "download"
-      ],
-      "note": ""
-    },
     {
       "key": "usa",
       "name": "آمریکا",
       "tags": [
-        "ai",
-        "download"
-      ],
-      "note": ""
+        "ai"
+      ]
     }
   ]
 }
