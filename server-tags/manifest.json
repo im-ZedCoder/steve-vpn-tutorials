@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:15:59.450Z",
+  "updatedAt": "2026-08-20T14:18:28.310Z",
   "locations": [
     {
       "key": "belgium",
@@ -34,7 +34,8 @@
       "key": "usa",
       "name": "آمریکا",
       "tags": [
-        "ai"
+        "ai",
+        "download"
       ],
       "note": ""
     }
