@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T17:32:01.856Z",
+  "updatedAt": "2026-08-20T17:32:05.755Z",
   "tagDefs": [
     {
       "key": "stream",
@@ -26,13 +26,5 @@
       "color": "#C0C0C0"
     }
   ],
-  "locations": [
-    {
-      "key": "usa",
-      "name": "آمریکا",
-      "tags": [
-        "ai"
-      ]
-    }
-  ]
+  "locations": []
 }
