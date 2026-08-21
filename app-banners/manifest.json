@@ -1,4 +1,12 @@
 {
-  "updatedAt": "2026-08-19T07:28:16.181Z",
-  "banners": []
+  "updatedAt": "2026-08-21T08:12:54.372Z",
+  "banners": [
+    {
+      "id": 4,
+      "image": "https://cdn.jsdelivr.net/gh/im-ZedCoder/steve-vpn-tutorials@main/app-banners/1787299973396-zss.png",
+      "title": "",
+      "description": "",
+      "link": ""
+    }
+  ]
 }
