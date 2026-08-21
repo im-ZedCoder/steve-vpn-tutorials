@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T17:32:33.707Z",
+  "updatedAt": "2026-08-21T08:03:47.643Z",
   "tagDefs": [
     {
       "key": "stream",
@@ -27,6 +27,14 @@
     }
   ],
   "locations": [
+    {
+      "key": "belgium",
+      "name": "بلژیک",
+      "tags": [
+        "stream",
+        "dl"
+      ]
+    },
     {
       "key": "usa",
       "name": "آمریکا",
