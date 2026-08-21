@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T08:09:27.063Z",
+  "updatedAt": "2026-08-21T08:09:47.081Z",
   "tagDefs": [
     {
       "key": "dev",
@@ -53,7 +53,7 @@
       "key": "usa",
       "name": "آمریکا",
       "tags": [
-        "dl",
+        "dev",
         "ai",
         "finance"
       ]
