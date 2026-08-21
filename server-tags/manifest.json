@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-08-21T08:04:18.024Z",
+  "updatedAt": "2026-08-21T08:09:16.100Z",
   "tagDefs": [
+    {
+      "key": "dev",
+      "label": "برنامه نویسی",
+      "icon": "bolt",
+      "color": "#D3D541"
+    },
     {
       "key": "stream",
       "label": "استریم و گیم",
