@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T08:11:09.569Z",
+  "updatedAt": "2026-08-21T23:15:22.001Z",
   "tagDefs": [
     {
       "key": "dev",
@@ -33,6 +33,17 @@
     }
   ],
   "locations": [
+    {
+      "key": "uae",
+      "name": "امارات",
+      "tags": [
+        "dev",
+        "stream",
+        "dl",
+        "ai",
+        "finance"
+      ]
+    },
     {
       "key": "turkey",
       "name": "ترکیه",
