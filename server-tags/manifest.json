@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T08:09:16.100Z",
+  "updatedAt": "2026-08-21T08:09:27.063Z",
   "tagDefs": [
     {
       "key": "dev",
@@ -10,7 +10,7 @@
     {
       "key": "stream",
       "label": "استریم و گیم",
-      "icon": "rocket",
+      "icon": "gamepad",
       "color": "#E34A4F"
     },
     {
