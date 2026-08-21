@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T08:03:47.643Z",
+  "updatedAt": "2026-08-21T08:04:18.024Z",
   "tagDefs": [
     {
       "key": "stream",
@@ -27,6 +27,14 @@
     }
   ],
   "locations": [
+    {
+      "key": "turkey",
+      "name": "ترکیه",
+      "tags": [
+        "stream",
+        "dl"
+      ]
+    },
     {
       "key": "belgium",
       "name": "بلژیک",
