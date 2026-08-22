@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T23:16:54.019Z",
+  "updatedAt": "2026-08-22T10:33:47.813Z",
   "tagDefs": [
     {
       "key": "dev",
@@ -33,6 +33,14 @@
     }
   ],
   "locations": [
+    {
+      "key": "france",
+      "name": "فرانسه",
+      "tags": [
+        "stream",
+        "dl"
+      ]
+    },
     {
       "key": "uae",
       "name": "امارات",
