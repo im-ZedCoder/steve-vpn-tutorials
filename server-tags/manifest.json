@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T14:07:34.100Z",
+  "updatedAt": "2026-08-25T23:00:48.283Z",
   "tagDefs": [
     {
       "key": "dev",
@@ -33,6 +33,17 @@
     }
   ],
   "locations": [
+    {
+      "key": "canada",
+      "name": "کانادا",
+      "tags": [
+        "dev",
+        "ai"
+      ],
+      "operators": [
+        "IRANCELL"
+      ]
+    },
     {
       "key": "france",
       "name": "فرانسه",
