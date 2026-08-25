@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T14:07:20.100Z",
+  "updatedAt": "2026-08-25T14:07:34.100Z",
   "tagDefs": [
     {
       "key": "dev",
@@ -93,7 +93,10 @@
         "ai",
         "finance"
       ],
-      "operators": []
+      "operators": [
+        "Irancell",
+        "IR-MCI"
+      ]
     }
   ]
 }
