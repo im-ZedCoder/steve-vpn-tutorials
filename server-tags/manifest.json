@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T14:07:08.806Z",
+  "updatedAt": "2026-08-25T14:07:20.100Z",
   "tagDefs": [
     {
       "key": "dev",
@@ -80,7 +80,10 @@
         "stream",
         "dl"
       ],
-      "operators": []
+      "operators": [
+        "Irancell",
+        "IR-MCI"
+      ]
     },
     {
       "key": "usa",
