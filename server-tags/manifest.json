@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T10:33:47.813Z",
+  "updatedAt": "2026-08-25T14:06:32.645Z",
   "tagDefs": [
     {
       "key": "dev",
@@ -37,8 +37,14 @@
       "key": "france",
       "name": "فرانسه",
       "tags": [
+        "dev",
         "stream",
-        "dl"
+        "dl",
+        "ai"
+      ],
+      "operators": [
+        "Irancell",
+        "IR-MCI"
       ]
     },
     {
@@ -50,7 +56,8 @@
         "dl",
         "ai",
         "finance"
-      ]
+      ],
+      "operators": []
     },
     {
       "key": "turkey",
@@ -58,7 +65,8 @@
       "tags": [
         "stream",
         "dl"
-      ]
+      ],
+      "operators": []
     },
     {
       "key": "belgium",
@@ -66,7 +74,8 @@
       "tags": [
         "stream",
         "dl"
-      ]
+      ],
+      "operators": []
     },
     {
       "key": "usa",
@@ -75,7 +84,8 @@
         "dev",
         "ai",
         "finance"
-      ]
+      ],
+      "operators": []
     }
   ]
 }
