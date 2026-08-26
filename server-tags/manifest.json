@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:00:48.283Z",
+  "updatedAt": "2026-08-26T06:14:14.714Z",
   "tagDefs": [
     {
       "key": "dev",
@@ -33,6 +33,19 @@
     }
   ],
   "locations": [
+    {
+      "key": "netherlands",
+      "name": "هلند",
+      "tags": [
+        "dev",
+        "dl",
+        "ai"
+      ],
+      "operators": [
+        "Irancell",
+        "IR-MCI"
+      ]
+    },
     {
       "key": "canada",
       "name": "کانادا",
