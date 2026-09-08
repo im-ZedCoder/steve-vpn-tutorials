@@ -1,4 +1,12 @@
 {
-  "updatedAt": "2026-08-21T11:32:10.188Z",
-  "banners": []
+  "updatedAt": "2026-09-08T21:37:14.394Z",
+  "banners": [
+    {
+      "id": 6,
+      "image": "https://cdn.jsdelivr.net/gh/im-ZedCoder/steve-vpn-tutorials@main/app-banners/1788903432073-7736cd2c-ac48-4ab3-badf-d3ab236229ea.png",
+      "title": "",
+      "description": "",
+      "link": "https://anti-steve.ir"
+    }
+  ]
 }
