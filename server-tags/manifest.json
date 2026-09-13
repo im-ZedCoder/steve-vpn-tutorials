@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T23:34:37.146Z",
+  "updatedAt": "2026-09-13T23:35:16.409Z",
   "tagDefs": [
     {
       "key": "fast",
@@ -112,6 +112,17 @@
       ],
       "operators": [
         "Irancell",
+        "IR-MCI"
+      ]
+    },
+    {
+      "key": "czech",
+      "name": "چک",
+      "tags": [
+        "fast"
+      ],
+      "operators": [
+        "همراه اول",
         "IR-MCI"
       ]
     },
