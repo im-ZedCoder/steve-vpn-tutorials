@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-08-26T06:14:14.714Z",
+  "updatedAt": "2026-09-13T23:34:37.146Z",
   "tagDefs": [
+    {
+      "key": "fast",
+      "label": "پر سرعت",
+      "icon": "speed",
+      "color": "#6F6F00"
+    },
     {
       "key": "dev",
       "label": "برنامه نویسی",
